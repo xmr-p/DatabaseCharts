@@ -1,10 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T22:23:39.461Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="eC27DrPHKEpF5l0OUsB_" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T22:26:33.717Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2dGopXDs0yvcDqVwf90S" version="24.4.10" type="github">
   <diagram name="Page-1" id="ac-i3KU7QuDOE-IfPuUs">
     <mxGraphModel dx="1434" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_hiJIPgMftrgZChGUFek-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;curved=0;" edge="1" parent="1" source="_hiJIPgMftrgZChGUFek-1" target="_hiJIPgMftrgZChGUFek-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_hiJIPgMftrgZChGUFek-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_hiJIPgMftrgZChGUFek-1" target="_hiJIPgMftrgZChGUFek-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_hiJIPgMftrgZChGUFek-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_hiJIPgMftrgZChGUFek-1" target="_hiJIPgMftrgZChGUFek-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_hiJIPgMftrgZChGUFek-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_hiJIPgMftrgZChGUFek-1" target="_hiJIPgMftrgZChGUFek-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_hiJIPgMftrgZChGUFek-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_hiJIPgMftrgZChGUFek-1" target="_hiJIPgMftrgZChGUFek-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_hiJIPgMftrgZChGUFek-1" value="Articulo" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -47,7 +59,7 @@
           <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_hiJIPgMftrgZChGUFek-10" value="codigoArticulo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="620" y="140" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_hiJIPgMftrgZChGUFek-11" value="numPedido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="375" y="700" width="100" height="40" as="geometry" />
@@ -90,6 +102,15 @@
         </mxCell>
         <mxCell id="_hiJIPgMftrgZChGUFek-20" value="calle" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_hiJIPgMftrgZChGUFek-31" value="presentacion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_hiJIPgMftrgZChGUFek-32" value="precioUnitario" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_hiJIPgMftrgZChGUFek-33" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
