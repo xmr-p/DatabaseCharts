@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T23:11:04.549Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PlZIBFan9Vf8A6sIVqXv" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T23:20:49.913Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="twKY67C_O9mmp38wpfcf" version="24.4.13" type="github">
   <diagram name="Page-1" id="dFoMPFqmiuXSDlFLrBvA">
     <mxGraphModel dx="1434" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vuw4ZfPCOJeODHO_FQhW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERmandOne;startFill=0;curved=0;" edge="1" parent="1" source="vuw4ZfPCOJeODHO_FQhW-1" target="vuw4ZfPCOJeODHO_FQhW-4">
+        <mxCell id="vuw4ZfPCOJeODHO_FQhW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERzeroToOne;startFill=0;curved=0;" edge="1" parent="1" source="vuw4ZfPCOJeODHO_FQhW-1" target="vuw4ZfPCOJeODHO_FQhW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vuw4ZfPCOJeODHO_FQhW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vuw4ZfPCOJeODHO_FQhW-1" target="vuw4ZfPCOJeODHO_FQhW-29">
@@ -55,7 +55,7 @@
         <mxCell id="vuw4ZfPCOJeODHO_FQhW-3" value="Cliente" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vuw4ZfPCOJeODHO_FQhW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;curved=0;" edge="1" parent="1" source="vuw4ZfPCOJeODHO_FQhW-4" target="vuw4ZfPCOJeODHO_FQhW-2">
+        <mxCell id="vuw4ZfPCOJeODHO_FQhW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;curved=0;" edge="1" parent="1" source="vuw4ZfPCOJeODHO_FQhW-4" target="vuw4ZfPCOJeODHO_FQhW-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vuw4ZfPCOJeODHO_FQhW-4" value="Se le realiza" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
