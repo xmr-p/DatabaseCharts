@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T22:12:24.138Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YUyGkkPyWqtsFhUck0KX" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T03:33:54.666Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-SrO7HbAaG4Py-7fPmpX" version="24.5.2" type="github">
   <diagram name="Page-1" id="oUrtw_3djIeICZ6aYUFe">
-    <mxGraphModel dx="2216" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="MkQvWn6cAgsR6RFx1JYP-2" value="Proveedor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="410" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MkQvWn6cAgsR6RFx1JYP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="MkQvWn6cAgsR6RFx1JYP-3" target="MkQvWn6cAgsR6RFx1JYP-56">
+        <mxCell id="MkQvWn6cAgsR6RFx1JYP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;startArrow=ERzeroToOne;startFill=0;" edge="1" parent="1" source="MkQvWn6cAgsR6RFx1JYP-3" target="MkQvWn6cAgsR6RFx1JYP-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="610" as="targetPoint" />
           </mxGeometry>
@@ -174,7 +174,7 @@
         <mxCell id="MkQvWn6cAgsR6RFx1JYP-55" value="Venta" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="590" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MkQvWn6cAgsR6RFx1JYP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="MkQvWn6cAgsR6RFx1JYP-56" target="MkQvWn6cAgsR6RFx1JYP-55">
+        <mxCell id="MkQvWn6cAgsR6RFx1JYP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="MkQvWn6cAgsR6RFx1JYP-56" target="MkQvWn6cAgsR6RFx1JYP-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MkQvWn6cAgsR6RFx1JYP-56" value="Genera" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
