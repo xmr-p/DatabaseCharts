@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T23:23:52.749Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CkZJUIVUtV_Qe_y3-eR_" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T23:26:26.908Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S2Sk2MzqEDRDlIiZo91A" version="24.6.3" type="github">
   <diagram name="Page-1" id="XbU9uv-gT49JRMq13AD1">
     <mxGraphModel dx="2284" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -224,12 +224,10 @@
         <mxCell id="Z4iRlWHj9iyx15JNKOcE-1" value="elemento_geologico" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z4iRlWHj9iyx15JNKOcE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Z4iRlWHj9iyx15JNKOcE-3" target="Z4iRlWHj9iyx15JNKOcE-1">
+        <mxCell id="Z4iRlWHj9iyx15JNKOcE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;exitX=0.808;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z4iRlWHj9iyx15JNKOcE-3" target="Z4iRlWHj9iyx15JNKOcE-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="281" y="390" />
-              <mxPoint x="281" y="420" />
-              <mxPoint x="190" y="420" />
+              <mxPoint x="448" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
