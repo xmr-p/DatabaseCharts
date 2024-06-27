@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T23:26:26.908Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S2Sk2MzqEDRDlIiZo91A" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T23:26:54.325Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="c57bOoivwTNOiryE4u75" version="24.6.3" type="github">
   <diagram name="Page-1" id="XbU9uv-gT49JRMq13AD1">
     <mxGraphModel dx="2284" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="QcqR4PCK8s3Ke5xRTZmC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" parent="1" source="QcqR4PCK8s3Ke5xRTZmC-5" target="QcqR4PCK8s3Ke5xRTZmC-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QcqR4PCK8s3Ke5xRTZmC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;startArrow=ERoneToMany;startFill=0;" parent="1" source="QcqR4PCK8s3Ke5xRTZmC-92" target="QcqR4PCK8s3Ke5xRTZmC-16" edge="1">
+        <mxCell id="QcqR4PCK8s3Ke5xRTZmC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.563;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;startArrow=ERoneToMany;startFill=0;exitPerimeter=0;" parent="1" source="QcqR4PCK8s3Ke5xRTZmC-92" target="QcqR4PCK8s3Ke5xRTZmC-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QcqR4PCK8s3Ke5xRTZmC-5" value="rio" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -70,13 +70,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QcqR4PCK8s3Ke5xRTZmC-16" value="atraviesa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QcqR4PCK8s3Ke5xRTZmC-19" value="codigo_provincia" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="1000" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcqR4PCK8s3Ke5xRTZmC-20" value="longitud_tramo" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="550" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="640" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcqR4PCK8s3Ke5xRTZmC-23" value="num_habitantes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1000" y="40" width="100" height="40" as="geometry" />
