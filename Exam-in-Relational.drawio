@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T23:32:10.536Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="c-fZAccorf105JQMJA1_" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T23:33:36.373Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kxUYKmsXNh2X-C0QXWNZ" version="24.6.4" type="github">
   <diagram name="Page-1" id="hgh61pcMqSlINX2_QWBn">
     <mxGraphModel dx="1434" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCcrClOhop8i0jQjY_OR-27" value="proyecto" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="130" y="180" width="180" height="90" as="geometry" />
+          <mxGeometry x="200" y="180" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mCcrClOhop8i0jQjY_OR-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="mCcrClOhop8i0jQjY_OR-27">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -276,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCcrClOhop8i0jQjY_OR-144" value="social" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="180" height="90" as="geometry" />
+          <mxGeometry x="390" y="360" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mCcrClOhop8i0jQjY_OR-145" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mCcrClOhop8i0jQjY_OR-144">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -305,7 +305,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCcrClOhop8i0jQjY_OR-157" value="privado" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="180" height="90" as="geometry" />
+          <mxGeometry x="110" y="360" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mCcrClOhop8i0jQjY_OR-158" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mCcrClOhop8i0jQjY_OR-157">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -339,10 +339,10 @@
         <mxCell id="mCcrClOhop8i0jQjY_OR-171" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mCcrClOhop8i0jQjY_OR-145" target="mCcrClOhop8i0jQjY_OR-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="405" />
-              <mxPoint x="260" y="340" />
-              <mxPoint x="110" y="340" />
-              <mxPoint x="110" y="225" />
+              <mxPoint x="330" y="405" />
+              <mxPoint x="330" y="340" />
+              <mxPoint x="180" y="340" />
+              <mxPoint x="180" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
